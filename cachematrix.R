@@ -2,7 +2,6 @@
 ## your functions do
 
 ## Write a short comment describing this function
-
 ##the function below creates a list containing a function to 
 ##1: set the value of matrix
 ##2: get the value of matrix
@@ -24,7 +23,6 @@ list(set=set, get=get,
 }
 
 ## Write a short comment describing this function
-
 ##this functions assumes that the matrix is alway invertible.
 ##it thus returns the inverse of the matrix.
 ##it checks first if the inverse has been already computed
